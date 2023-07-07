@@ -1,2 +1,4 @@
-# threads-api-js
-Threads by Instagram API Library to simplify interaction with Threads ;)
+# Threads API JS
+An API wrapping library for Threads by instagram.
+
+Bootstrapping this as you read :)

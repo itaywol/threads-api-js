@@ -1,0 +1,32 @@
+{
+  "name": "threads-api-js",
+  "version": "1.0.2",
+  "description": "Threads by Instagram API Library to simplify interaction with Threads ;)",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "vitest",
+    "build": "tsc"
+  },
+  "keywords": [
+    "Threads by instagram",
+    "Threads",
+    "API",
+    "API Library"
+  ],
+  "author": "Itay Wolfish",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "1.4.0"
+  },
+  "devDependencies": {
+    "typescript": "5.1.6",
+    "vitest": "0.33.0"
+  },
+  "repository": {
+    "url": "https://github.com/itaywol/threads-api-js"
+  }
+}
